@@ -1,1 +1,1 @@
-# git-achieved - on progress
+# git-achieved - on-progression
